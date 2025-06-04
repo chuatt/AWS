@@ -1,0 +1,3 @@
+2025-05-25 08:37:37 root         INFO     Starting PutRecord Producer
+2025-05-25 08:37:37 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-05-25 08:37:38 root         INFO     Produced record 49663622339081439013394226345313797404618721953767751714 to Shard shardId-000000000002
